@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=60&fontAlignY=35&animation=fadeIn" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nhitar&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<!-- Зелёный градиент -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:96c93d&height=200&section=header&text=Welcome!&fontSize=55&fontAlignY=40&fontColor=ffffff" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nhitar&theme=github&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
 **Email:** nikita.pivoev@yandex.ru
 
